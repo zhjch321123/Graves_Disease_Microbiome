@@ -1,0 +1,182 @@
+TAX	Control	Grave_I	Grave_II	SIZE	Group
+Clostridium saccharolyticum_An168	0.000 	0.004 	0.004 	2.315826512	deepskyblue
+Bacteroides fragilis_H0067B	0.063 	0.084 	0.164 	5.960058881	gold
+Bacteroides thetaiotaomicron_H463	0.311 	0.405 	1.389 	7.495861601	pink2
+Bifidobacterium dentium ATCC 27678	0.002 	0.010 	0.051 	3.917561948	aquamarine2
+Clostridium clostridioforme_AGR2157	0.001 	0.001 	0.006 	2.602963471	darkorchid1
+Clostridium paraputrificum_LH025	0.000 	0.001 	0.002 	1.99693127	brown2
+Clostridium perfringens_SM101	0.001 	0.008 	0.010 	3.085128677	cyan
+Fusobacterium mortiferum ATCC 9817	0.007 	0.020 	0.168 	4.909723572	orange
+Haemophilus parainfluenzae_0123Y	0.005 	0.007 	0.021 	3.933063251	deepskyblue
+Streptococcus gordonii_CH1	0.000 	0.007 	0.010 	2.934361332	gold
+Streptococcus miti_RH50738	0.004 	0.016 	0.033 	4.232580859	deeppink4
+Streptococcus parasanguinis_318SPAR	0.016 	0.160 	0.226 	5.850370532	aquamarine2
+Faecalibacterium prausnitzii_CNCM4573	2.652 	2.097 	0.514 	8.304217863	deepskyblue
+Lactobacillus ruminis ATCC 27782	0.017 	0.002 	0.001 	3.125548688	gold
+Anaerostipes hadrus_P2764	1.036 	0.733 	0.551 	7.747521484	deeppink4
+Alistipes putredinis_CAG67	1.441 	1.412 	0.841 	8.155572832	aquamarine2
+Butyricimonas synergistica_43	0.025 	0.023 	0.002 	3.980132752	darkorchid1
+Phascolarctobacterium succinatutens_YIT12067	0.091 	0.074 	0.063 	5.750972486	brown2
+Akkermansia muciniphila_MG2	0.091 	0.082 	0.071 	5.816136618	cyan
+Eubacterium rectale T1-815	4.675 	4.124 	2.156 	1	gray51
+Faecalibacterium prausnitzii strain CNCM I 4542	1.965 	1.797 	1.076 	1	gray51
+Fusicatenibacter saccharivorans	1.812 	1.663 	1.095 	1	gray51
+Escherichia coli upec-80	0.669 	1.175 	3.112 	1	gray51
+Faecalibacterium sp. UBA2087	1.051 	0.916 	0.503 	1	gray51
+Subdoligranulum sp. 60_17	0.821 	0.595 	0.458 	1	gray51
+Bacteroides sp. 2_1_7	0.425 	0.438 	0.929 	1	gray51
+Bacteroides sp. D1	0.289 	0.365 	0.911 	1	gray51
+Prevotella stercorea CAG:629	0.622 	0.395 	0.158 	1	gray51
+Bifidobacterium stercoris JCM 15918	0.363 	0.404 	0.510 	1	gray51
+Dialister invisus CAG:218	0.404 	0.399 	0.322 	1	gray51
+Streptococcus sp. CCH5-D3	0.060 	0.554 	0.619 	1	gray51
+Clostridium sp. CAG:7	0.453 	0.371 	0.246 	1	gray51
+Faecalibacterium prausnitzii strain AHMP21	0.500 	0.260 	0.201 	1	gray51
+Firmicutes bacterium CAG:129_59_24	0.339 	0.308 	0.029 	1	gray51
+Butyricicoccus sp. N54.MGS-46	0.324 	0.202 	0.201 	1	gray51
+Blautia sp. KLE 1732	0.310 	0.245 	0.121 	1	gray51
+Firmicutes bacterium CAG:110	0.298 	0.263 	0.088 	1	gray51
+Odoribacter sp. 43_10	0.225 	0.224 	0.136 	1	gray51
+Ruminococcus callidus ATCC 27760	0.245 	0.225 	0.007 	1	gray51
+Oscillibacter sp. 57_20	0.223 	0.208 	0.046 	1	gray51
+Faecalibacterium sp. CAG:74	0.217 	0.212 	0.017 	1	gray51
+[Eubacterium] hallii strain EH1	0.182 	0.155 	0.129 	1	gray51
+Clostridium sp.CAG:217_53_7	0.150 	0.135 	0.052 	1	gray51
+Firmicutes bacterium CAG:227	0.185 	0.099 	0.050 	1	gray51
+Firmicutes bacterium CAG:102	0.134 	0.124 	0.053 	1	gray51
+Clostridium sp. CAG:352	0.134 	0.100 	0.092 	1	gray51
+Dialister sp. UBA2909	0.200 	0.070 	0.012 	1	gray51
+Eubacterium sp. CAG:251	0.139 	0.086 	0.067 	1	gray51
+Clostridium sp. 42_12	0.131 	0.101 	0.048 	1	gray51
+Acidaminococcus sp. HPA0509	0.086 	0.095 	0.132 	1	gray51
+Coprobacillus sp. 8_2_54BFAA	0.039 	0.043 	0.304 	1	gray51
+Succinatimonas sp. UBA2849	0.113 	0.107 	0.051 	1	gray51
+Coprococcus eutactus	0.117 	0.100 	0.049 	1	gray51
+Parasutterella excrementihominis CAG:233	0.125 	0.097 	0.039 	1	gray51
+Dorea formicigenerans CAG:28	0.089 	0.097 	0.097 	1	gray51
+Bacteroides sp. N54.MGS-20	0.116 	0.090 	0.050 	1	gray51
+Ruminococcus obeum ATCC 29174	0.118 	0.091 	0.029 	1	gray51
+Veillonella atypica strain CMW7756B	0.012 	0.026 	0.308 	1	gray51
+Clostridium leptum DSM 753	0.100 	0.094 	0.020 	1	gray51
+Ruminococcus sp. CAG:177	0.109 	0.079 	0.013 	1	gray51
+Firmicutes bacterium CAG:341	0.105 	0.077 	0.011 	1	gray51
+Eggerthella sp. HGA1	0.011 	0.015 	0.264 	1	gray51
+Faecalibacterium prausnitzii strain CNCM I 4575	0.105 	0.054 	0.028 	1	gray51
+Clostridium sp. L2-50	0.075 	0.060 	0.047 	1	gray51
+Bacteroides ovatus NLAE-zl-C34	0.018 	0.049 	0.122 	1	gray51
+Coprococcus catus GD/7	0.077 	0.047 	0.023 	1	gray51
+Erysipelotrichaceae bacterium 2_2_44A	0.018 	0.019 	0.119 	1	gray51
+Blautia sp. CAG:237	0.078 	0.025 	0.005 	1	gray51
+Faecalibacterium sp. CAG:82	0.056 	0.041 	0.009 	1	gray51
+Prevotella sp. CAG:732	0.045 	0.043 	0.017 	1	gray51
+Streptococcus infantarius subsp. infantarius CJ18	0.005 	0.013 	0.130 	1	gray51
+Bifidobacterium breve strain BBRI4	0.028 	0.030 	0.059 	1	gray51
+Bacteroidales bacterium H4	0.035 	0.030 	0.023 	1	gray51
+Bacteroides sp. CAG:770	0.036 	0.035 	0.012 	1	gray51
+Phascolarctobacterium sp. CAG:266	0.001 	0.021 	0.091 	1	gray51
+Eubacterium sp. CAG:115	0.046 	0.022 	0.010 	1	gray51
+Veillonella dispar strain DNF00926	0.007 	0.015 	0.085 	1	gray51
+Firmicutes bacterium CAG:176	0.036 	0.028 	0.011 	1	gray51
+Clostridium sp. CAG:138	0.036 	0.026 	0.006 	1	gray51
+Faecalibacterium prausnitzii strain CNCM I 4541	0.036 	0.028 	0.002 	1	gray51
+Ruminococcus sp. CAG:17	0.035 	0.020 	0.013 	1	gray51
+Streptococcus gallolyticus strain DD03	0.002 	0.005 	0.093 	1	gray51
+Clostridium sp. CAG:167	0.027 	0.023 	0.012 	1	gray51
+Fusobacterium sp. HMSC073F01	0.000 	0.002 	0.095 	1	gray51
+Bacteroides sp. CAG:545	0.023 	0.023 	0.015 	1	gray51
+Prevotella sp. UBA7779	0.025 	0.024 	0.006 	1	gray51
+Ruminococcus sp. CAG:60	0.027 	0.017 	0.009 	1	gray51
+Ruminococcus sp. CAG:330	0.037 	0.011 	0.000 	1	gray51
+Methanobrevibacter smithii CAG:186	0.022 	0.020 	0.009 	1	gray51
+Fusobacterium ulcerans 12-1B	0.005 	0.018 	0.041 	1	gray51
+Clostridiales bacterium UBA4696	0.028 	0.017 	0.001 	1	gray51
+Firmicutes bacterium CAG:791	0.020 	0.020 	0.010 	1	gray51
+Anaerostipes hadrus	0.030 	0.012 	0.007 	1	gray51
+Roseburia sp. CAG:197	0.018 	0.015 	0.012 	1	gray51
+Clostridiales bacterium VE202-14	0.004 	0.005 	0.053 	1	gray51
+Fusobacterium varium strain Fv113-g1	0.001 	0.002 	0.062 	1	gray51
+Blautia sp. Marseille-P3087	0.016 	0.013 	0.012 	1	gray51
+Bacteroides sp. CAG:1060	0.009 	0.015 	0.019 	1	gray51
+Prevotella sp. P4-67	0.022 	0.011 	0.002 	1	gray51
+Enterococcus faecalis strain UBA6756	0.011 	0.013 	0.017 	1	gray51
+Roseburia sp. CAG:380	0.018 	0.012 	0.008 	1	gray51
+Prevotella buccae ATCC 33574	0.009 	0.011 	0.020 	1	gray51
+Collinsella sp. UBA1693	0.003 	0.008 	0.034 	1	gray51
+Streptococcus vestibularis ATCC 49124	0.001 	0.007 	0.037 	1	gray51
+Haemophilus parainfluenzae strain ATCC 9796	0.003 	0.007 	0.033 	1	gray51
+Rothia sp. HMSC065B04	0.003 	0.005 	0.035 	1	gray51
+Clostridium sp. CAG:1013	0.011 	0.011 	0.008 	1	gray51
+Firmicutes bacterium CAG:137	0.011 	0.011 	0.003 	1	gray51
+Streptococcus sp. HSISS3	0.002 	0.012 	0.017 	1	gray51
+Clostridium sp. CAG:411	0.011 	0.009 	0.006 	1	gray51
+Ruminococcus sp. CAG:403	0.020 	0.003 	0.000 	1	gray51
+Butyricimonas sp. An62 strain An62	0.011 	0.009 	0.004 	1	gray51
+Bacteroides sp. CAG:709	0.009 	0.009 	0.006 	1	gray51
+Cryptobacterium sp. CAG:338	0.009 	0.009 	0.005 	1	gray51
+Megasphaera sp. DISK 18	0.000 	0.000 	0.033 	1	gray51
+Coprobacter sp. 177	0.012 	0.006 	0.002 	1	gray51
+Streptococcus sp. AS14	0.002 	0.008 	0.016 	1	gray51
+Ruminococcus sp. CAG:579	0.008 	0.007 	0.005 	1	gray51
+Mycoplasma sp. CAG:472	0.011 	0.006 	0.000 	1	gray51
+Bifidobacterium animalis subsp. lactis DSM 10140	0.004 	0.005 	0.011 	1	gray51
+Dorea sp. CAG:105	0.008 	0.005 	0.002 	1	gray51
+Dialister sp. UBA1703	0.008 	0.005 	0.003 	1	gray51
+Streptococcus lutetiensis strain DD06	0.001 	0.004 	0.014 	1	gray51
+Victivallis vadensis ATCC BAA-548	0.008 	0.006 	0.000 	1	gray51
+Lactobacillus paracasei subsp. paracasei Lpp221	0.004 	0.005 	0.007 	1	gray51
+Collinsella sp. UBA4370	0.001 	0.006 	0.010 	1	gray51
+Streptococcus sp. HMSC034A12	0.001 	0.006 	0.008 	1	gray51
+Lachnospiraceae bacterium CAG:215	0.001 	0.001 	0.016 	1	gray51
+Streptococcus pleomorphus DSM 20574	0.005 	0.004 	0.003 	1	gray51
+Holdemania sp. AP2	0.005 	0.004 	0.002 	1	gray51
+Treponema sp. UBA7590	0.005 	0.003 	0.003 	1	gray51
+Clostridium sp. CAG:169	0.006 	0.003 	0.001 	1	gray51
+Prevotella sp. UBA7764	0.004 	0.004 	0.002 	1	gray51
+Clostridium sp. FS41 (CSPB)	0.002 	0.003 	0.007 	1	gray51
+Clostridium paraputrificum strain LH058	0.001 	0.005 	0.006 	1	gray51
+Lachnospiraceae bacterium 5_1_57FAA	0.001 	0.002 	0.010 	1	gray51
+Varibaculum cambriense DORA_20	0.002 	0.003 	0.007 	1	gray51
+Megasphaera sp. UBA1696	0.004 	0.003 	0.003 	1	gray51
+Anaerotruncus sp. Marseille-P2769	0.004 	0.003 	0.001 	1	gray51
+Mitsuokella sp. UBA4225	0.005 	0.001 	0.000 	1	gray51
+Eubacterium sp. CAG:841	0.006 	0.000 	0.000 	1	gray51
+Ruminococcus sp. CAG:563	0.002 	0.002 	0.001 	1	gray51
+Lactococcus sp. DD01	0.002 	0.002 	0.004 	1	gray51
+Anaerostipes sp. BG01	0.002 	0.002 	0.002 	1	gray51
+Fusobacterium nucleatum subsp. animalis 3_1_33	0.000 	0.000 	0.008 	1	gray51
+Acidovorax sp. 121606 strain 121606	0.004 	0.001 	0.000 	1	gray51
+Veillonella sp. DNF00869	0.001 	0.002 	0.003 	1	gray51
+Odoribacter sp. CAG:788	0.002 	0.001 	0.001 	1	gray51
+Clostridium neonatale	0.001 	0.001 	0.002 	1	gray51
+Haemophilus sp. HMSC066D02	0.001 	0.001 	0.002 	1	gray51
+Lachnoclostridium phytofermentans KNHs212	0.001 	0.001 	0.001 	1	gray51
+Ruminococcaceae bacterium UBA7101	0.001 	0.001 	0.001 	1	gray51
+Aggregatibacter segnis ATCC 33393	0.001 	0.001 	0.002 	1	gray51
+Firmicutes bacterium CAG:555	0.001 	0.001 	0.000 	1	gray51
+Escherichia sp. TW09231	0.000 	0.001 	0.001 	1	gray51
+Weissella viridescens	0.000 	0.001 	0.001 	1	gray51
+Ruminococcus sp. CAG:382	0.002 	0.000 	0.000 	1	gray51
+Staphylococcus hominis strain J31	0.000 	0.001 	0.002 	1	gray51
+Escherichia sp. HT073016	0.000 	0.001 	0.001 	1	gray51
+Streptococcus agalactiae strain RBH09	0.000 	0.001 	0.001 	1	gray51
+Eggerthella sp. CAG:298	0.001 	0.001 	0.000 	1	gray51
+Clostridiales bacterium UBA7273	0.001 	0.001 	0.000 	1	gray51
+Clostridiales bacterium OBRC5-5	0.000 	0.000 	0.001 	1	gray51
+Haemophilus parainfluenzae strain 1209_HPAR	0.000 	0.000 	0.001 	1	gray51
+Ruminococcaceae bacterium UBA5891	0.001 	0.000 	0.000 	1	gray51
+Clostridium sp. CAG:1000	0.001 	0.000 	0.000 	1	gray51
+Campylobacter concisus UNSW1	0.000 	0.000 	0.002 	1	gray51
+Clostridium sp. CAG:914	0.001 	0.000 	0.000 	1	gray51
+Butyricicoccus pullicaecorum strain_25.3(T)	0.000 	0.000 	0.001 	1	gray51
+Corynebacterium aurimucosum strain 1329_CAUR	0.000 	0.000 	0.001 	1	gray51
+Dysgonomonas capnocytophagoides DSM 22835	0.000 	0.000 	0.000 	1	gray51
+Atopobium sp. BS2	0.000 	0.000 	0.001 	1	gray51
+Acinetobacter baumannii strain PR327	0.000 	0.000 	0.000 	1	gray51
+Actinomyces sp. SD1	0.000 	0.000 	0.000 	1	gray51
+Acidaminococcus sp. Marseille-P2764	0.000 	0.000 	0.000 	1	gray51
+Peptoniphilus sp. HMSC075B08	0.000 	0.000 	0.000 	1	gray51
+Campylobacter jejuni subsp. jejuni NCTC 11168-BN148	0.000 	0.000 	0.000 	1	gray51
+Peptoniphilus harei ACS-146-V-Sch2b	0.000 	0.000 	0.000 	1	gray51
+Cutibacterium avidum strain CI828	0.000 	0.000 	0.000 	1	gray51
+Bifidobacterium gallinarum strain UBA1815	0.000 	0.000 	0.000 	1	gray51
+Tissierella sp. Marseille-P2918	0.000 	0.000 	0.000 	1	gray51
